@@ -33,10 +33,12 @@ A backend-focused, object-oriented console implementation of the classic Battles
 
 The game populates the board by reading a text file. The repository includes a `TestData` folder containing various scenarios to test the robust parsing of the `ShipFactory`:
 
-* **Good Data:** * `Battleship-GoodData.gameboard.txt`
+* **Good Data:**
+  * `Battleship-GoodData.gameboard.txt`
   * `Battleship-GoodData-Duplicate.gameboard.txt`
   * `Battleship-GoodData-Missing.gameboard.txt`
-* **Bad Data (Error Handling):** * `Battleship-BadData-Edge01.gameboard.txt`
+* **Bad Data (Error Handling):** 
+  * `Battleship-BadData-Edge01.gameboard.txt`
   * `Battleship-BadData-Edge02.gameboard.txt`
   * `Battleship-BadData-NegativePosition.gameboard.txt`
   * `Battleship-BadData-TooLong.gameboard.txt`
