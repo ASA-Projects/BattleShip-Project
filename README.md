@@ -14,7 +14,4 @@ A backend-focused, object-oriented console implementation of the classic Battles
 ### Prerequisites
 * [.NET SDK](https://dotnet.microsoft.com/download) installed on your machine.
 
-### Installation & Execution
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/BattleshipArifov.git](https://github.com/yourusername/BattleshipArifov.git)
+
